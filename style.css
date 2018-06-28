@@ -1,0 +1,54 @@
+.box1{
+    width: 300px;
+    height: 300px;
+    margin: 7px;
+}
+
+.box2{
+    width: 150px;
+    height: 150px;
+}
+
+.box3{
+    width: 75px;
+    height: 75px;
+}
+
+.red{
+    background-color: #FF0000;
+    align-items: center;
+}
+
+.purple{
+    background-color: #88007e;
+    position: absolute;
+    display: flex;
+    margin: 75px;
+}
+
+.yellow{
+    background-color: #f2ff00;
+    position: absolute;
+    display: flex;
+    margin: 0px;
+}
+
+.blue{
+    background-color: #5C00FF;
+    align-items: center;
+}
+
+.green{
+    background-color: #008F0C;
+    position: absolute;
+    display: flex;
+    margin: 75px;
+}
+
+.black{
+    background-color: #000000;
+    position: absolute;
+    display: flex;
+    margin: 0px;
+}
+
